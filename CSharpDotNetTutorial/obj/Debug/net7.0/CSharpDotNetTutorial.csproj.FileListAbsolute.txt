@@ -1,0 +1,15 @@
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/bin/Debug/net7.0/CSharpDotNetTutorial
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/bin/Debug/net7.0/CSharpDotNetTutorial.deps.json
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/bin/Debug/net7.0/CSharpDotNetTutorial.runtimeconfig.json
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/bin/Debug/net7.0/CSharpDotNetTutorial.dll
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/bin/Debug/net7.0/CSharpDotNetTutorial.pdb
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/CSharpDotNetTutorial.csproj.AssemblyReference.cache
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/CSharpDotNetTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/CSharpDotNetTutorial.AssemblyInfoInputs.cache
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/CSharpDotNetTutorial.AssemblyInfo.cs
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/CSharpDotNetTutorial.csproj.CoreCompileInputs.cache
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/CSharpDotNetTutorial.dll
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/refint/CSharpDotNetTutorial.dll
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/CSharpDotNetTutorial.pdb
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/CSharpDotNetTutorial.genruntimeconfig.cache
+/Users/dennie/Projects/CSharpDotNetTutorial/CSharpDotNetTutorial/obj/Debug/net7.0/ref/CSharpDotNetTutorial.dll

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5639421F-EA79-4EE9-A3ED-4FDBCF025A4C}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSharpDotNetTutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpDotNetTutorial/Program.cs">
+    <Files>
+      <File FileName="CSharpDotNetTutorial/Program.cs" Line="16" Column="39" />
+      <File FileName="CSharpDotNetTutorial/Shape.cs" Line="13" Column="1" />
+      <File FileName="CSharpDotNetTutorial/TextShape.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpDotNetTutorial" expanded="True">
+            <Node name="CSharpDotNetTutorial" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>shape</Value>
+          <Value>circle</Value>
+          <Value>anotherCircle</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
