@@ -1,4 +1,4 @@
-﻿using CSharpDotNetTutorial.OpenClosePrinciple;
+﻿using CSharpDotNetTutorial.DatabaseExercises;
 
 namespace Classes;
 
@@ -6,8 +6,8 @@ class Program
 {
     static void Main()
     {
-        var demo = new Demo();
-        demo.Show();
+        var demo = new DatabaseDemo();
+        demo.Run();
     }
 
 }
