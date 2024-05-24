@@ -1,4 +1,4 @@
-﻿using CSharpDotNetTutorial.DatabaseExercises;
+﻿using CSharpDotNetTutorial.FactoryPatternExercises;
 
 namespace Classes;
 
@@ -6,8 +6,7 @@ class Program
 {
     static void Main()
     {
-        var demo = new DatabaseDemo();
-        demo.Run();
+        PointFactoryDemo.Show();
     }
 
 }

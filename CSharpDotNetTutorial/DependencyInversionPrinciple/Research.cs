@@ -8,7 +8,7 @@
 
         }
 
-        static void Main(string[] args)
+        public void Main(string[] args)
         {
             var parent = new Person { Name = "John" };
             var child1 = new Person { Name = "Mary" };
