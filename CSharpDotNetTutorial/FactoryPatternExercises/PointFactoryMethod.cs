@@ -19,7 +19,7 @@ public class PointFactoryMethod
     public double x, y;
 
     // Note PointFactoryMethod constructor was originally private but only made
-    // public for PointFactory.
+    // public for PointFactory demo.
     public PointFactoryMethod(double x, double y)
     {
         this.x = x;

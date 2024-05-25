@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        PointFactoryDemo.Show();
+        InnerPointFactoryMethodDemo.Show();
     }
 
 }
