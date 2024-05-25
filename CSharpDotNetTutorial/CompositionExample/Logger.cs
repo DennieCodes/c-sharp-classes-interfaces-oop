@@ -1,5 +1,4 @@
-﻿using System;
-namespace CSharpDotNetTutorial;
+﻿namespace CSharpDotNetTutorial.CompositionExample;
 
 public class Logger
 {
