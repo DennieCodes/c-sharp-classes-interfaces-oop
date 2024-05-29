@@ -1,4 +1,4 @@
-﻿using CSharpDotNetTutorial.FactoryPatternExercises;
+﻿using CSharpDotNetTutorial.CompositionAndExtensibilityExample;
 
 namespace Classes;
 
@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        InnerPointFactoryMethodDemo.Show();
+        CompositionDemo.Show();
     }
 
 }

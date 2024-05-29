@@ -1,4 +1,4 @@
-﻿namespace CSharpDotNetTutorial.CompositionExample
+﻿namespace CSharpDotNetTutorial.CompositionAndExtensibilityExample
 {
     public class Installer
     {
@@ -11,7 +11,7 @@
 
         public void Install()
         {
-            this.logger.Log("Installing...");
+            this.logger.LogInfo("Installing...");
         }
     }
 }

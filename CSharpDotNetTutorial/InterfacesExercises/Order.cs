@@ -11,7 +11,4 @@ public class Order
     {
         get { return Shipment != null; }
     }
-
-
-
 }
