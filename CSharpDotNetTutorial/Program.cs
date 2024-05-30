@@ -1,4 +1,4 @@
-﻿using CSharpDotNetTutorial.CompositionAndExtensibilityExample;
+﻿using CSharpDotNetTutorial.WorkflowEngineExercise;
 
 namespace Classes;
 
@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        CompositionDemo.Show();
+        WorkflowDemo.Show();
     }
 
 }
