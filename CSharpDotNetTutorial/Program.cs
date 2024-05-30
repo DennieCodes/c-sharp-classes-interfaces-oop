@@ -1,4 +1,4 @@
-﻿using CSharpDotNetTutorial.WorkflowEngineExercise;
+﻿using CSharpDotNetTutorial.FactoryPatternExercises.AbstractFactory;
 
 namespace Classes;
 
@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        WorkflowDemo.Show();
+        AbstractFactoryDemo.Show();
     }
 
 }
