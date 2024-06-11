@@ -1,4 +1,4 @@
-﻿using CSharpDotNetTutorial.FactoryPatternExercises.AbstractFactory;
+﻿using CSharpDotNetTutorial.StringBuilderExercise;
 
 namespace Classes;
 
@@ -6,6 +6,6 @@ class Program
 {
     static void Main()
     {
-        AbstractFactoryDemo.Show();
+        IdentifierDemo.Show();
     }
 }
